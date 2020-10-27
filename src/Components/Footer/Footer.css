@@ -1,0 +1,13 @@
+.widthFifty {
+    width: 50%;
+}
+
+.footerLink {
+    font-size: 15px;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+.footerLink:hover {
+    text-decoration: underline;
+}

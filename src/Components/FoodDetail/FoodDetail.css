@@ -1,0 +1,52 @@
+.foodDetailImg {
+    width: 100%;
+}
+
+.foodDetailText {
+    padding-top: 100px !important;
+    padding-right: 100px !important;
+}
+
+.itemQuantity {
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+    font-weight: 500;
+    border: none;
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+/Edge */
+    user-select: none; /* Standard */
+}
+
+.itemPrice {
+    width: 140px;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 25px;
+}
+
+.plusMinusIcon {
+    width: 30px !important;
+    height: 30px !important;
+    cursor: pointer;
+    color: #dc3545;
+}
+
+.priceArea {
+    width: 300px;
+    justify-content: space-between;
+}
+
+.add-button {
+    background-color: #dc3545;
+    color: white;
+    padding: 7px 20px;
+    border: 1px solid #e63b4b;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.add-button:hover {
+    background-color: #e63b4b;
+    transition: .2s;
+}

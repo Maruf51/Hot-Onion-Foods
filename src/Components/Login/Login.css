@@ -1,0 +1,16 @@
+.googleFbSignIn {
+    width: 28%;
+    margin: 10px auto;
+    border: 1px solid #b1b1b1;
+    border-radius: 25px;
+    height: auto;
+    padding: 8px 8px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.googleFbImage {
+    width: 25px;
+    height: auto;
+    float: left;
+}

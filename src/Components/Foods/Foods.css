@@ -1,0 +1,26 @@
+.foodImage {
+    width: 200px;
+}
+
+.food {
+    border-radius: 5px;
+    width: 27%;
+}
+
+.food:hover {
+    box-shadow: 0px 2px 20px #bbbbbb;
+    transition: .3s;
+}
+
+.foodName {
+    font-size: 15px;
+}
+
+.detail {
+    font-size: 13px;
+    color: #9c9c9c;
+}
+
+.price {
+    font-size: 25px;
+}

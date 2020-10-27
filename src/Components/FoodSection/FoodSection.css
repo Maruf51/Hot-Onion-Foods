@@ -1,0 +1,42 @@
+.foodBtn {
+    outline: none;
+    color: black;
+    font-size: 17px;
+    font-weight: 500;
+    background-color: white;
+    border: none;
+    margin: 0 1rem;
+    padding: 0;
+}
+
+.foodCategory {
+    color: rgb(255, 59, 24) !important;
+}
+
+.foodCategory::after {
+    content: "";
+    background-color: tomato;
+    width: 35px;
+    height: 3px;
+    display: block;
+    margin: auto;
+}
+
+.foodCheckoutBtn {
+    color: white;
+    background-color: #adadad;
+    border: 0;
+    padding: 8px 20px;
+    border-radius: 5px;
+}
+
+.foodCheckoutBtn:hover {
+    background-color: #9a9a9a;
+    transition: .2s;
+}
+
+.foodSection a {
+    width: 27%;
+    text-decoration: none;
+    color: black;
+}

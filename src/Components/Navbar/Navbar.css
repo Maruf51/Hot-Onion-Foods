@@ -1,0 +1,13 @@
+.onionLogo {
+    width: 150px;
+    height: 100%;
+}
+
+.logSignBtn {
+    padding: 5px 20px;
+    border-radius: 20px;
+}
+
+.cartIcon {
+    cursor: pointer;
+}

@@ -1,0 +1,48 @@
+.cartFoodImage {
+    width: 90px;
+}
+
+.cart-food-area {
+    background-color: #ededed;
+    border-radius: 20px;
+}
+
+.cart-food-image {
+    width: 28%;
+}
+
+.cart-food-detail {
+    width: 75%;
+    margin-left: 15px;
+}
+
+.cartFoodName {
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.cartFoodPrice {
+    color: #f91a45;
+}
+
+.cartFoodQuantity {
+    font-size: 13px;
+    color: #8c8c8c;
+}
+
+.cartItemQuantity {
+    width: 33px;
+    height: 32px;
+}
+
+.plusIcon {
+    color: gray;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.minusIcon {
+    color: gray;
+    font-size: 14px;
+    cursor: pointer;    
+}

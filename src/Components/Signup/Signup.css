@@ -1,0 +1,52 @@
+.sign-form {
+    width: 378px;
+    margin: auto;
+    margin-top: 100px;
+    box-shadow: 0 0 10px gray;
+    padding: 20px;
+    border-radius: 0 10px;
+}
+
+.sign-input {
+    width: 90%;
+    margin: 15px;
+    padding: 10px 15px;
+    background: #e4e4e4;
+    border: none;
+    border-radius: 4px;
+    color: #ff5b3e;
+}
+
+.sign-input:focus {
+    outline-color: #93ebff;
+}
+
+.sign-input::placeholder {
+    color: gray;
+}
+
+.sign-button {
+    background-color: #f91a45;
+    color: white;
+}
+
+.sign-button:hover {
+    background-color: #ff2d55;
+}
+
+.form-name {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.account {
+    font-size: 13px;
+    text-align: center;
+    margin: 0;
+    color: #525252;
+}
+
+.font-twelve {
+    font-size: 12px;
+}
