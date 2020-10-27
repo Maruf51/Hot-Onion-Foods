@@ -11,7 +11,7 @@ const AddCart = () => {
     const [deliveryDetails, setDeliveryDetails] = useState({address: '',})
     const [cartFood, setCartFood] = useState([])
     useEffect(() => {
-        fetch(`http://localhost:5000/getOrderedFood/?email=${loggedInUser.email}`)
+        fetch(`https://fierce-earth-11436.herokuapp.com/?email=${loggedInUser.email}`)
         .then(res => res.json())
         .then(data => setCartFood(data))
     }, []);

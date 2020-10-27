@@ -25,7 +25,7 @@ const FoodDetail = () => {
             quantity: value
         }
         console.log(food)
-        fetch(`http://localhost:5000/addUserFood`, {
+        fetch(`https://fierce-earth-11436.herokuapp.com/addUserFood`, {
             method: 'POST',
             headers: {'Content-Type': 'application/json'},
             body: JSON.stringify(food)
