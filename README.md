@@ -6,8 +6,9 @@
 *	A full-stack restaurant app where you can order your favorite food from the menu.
 *	You have options for breakfast, lunch, and dinner. 
 *	Pay online using your credit card and enjoy the most delicious dummy food.
+* This is a fully Responsive Website for any Device using Media Query.
 * Admin can enter new foods.
 
-__Technology:__ React js, React Router, Firebase Auth, Heroku, Bootstrap          
-__Backend Technology:__ Node js, MongoDB
+__Technology:__ React js, React Router, Firebase Auth, Bootstrap, Media Query          
+__Backend Technology:__ Node js, MongoDB, Heroku
 
