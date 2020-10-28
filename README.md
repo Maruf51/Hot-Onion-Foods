@@ -2,7 +2,7 @@
 
 [Live Site](https://hot-onion-foods.web.app/ "Hot Onion Foods Live Site Link.")     
 
-[alt text](https://i.ibb.co/t8ZFbQ9/hot-onion-foods.png)
+![alt text](https://i.ibb.co/t8ZFbQ9/hot-onion-foods.png)
 
 *	A full-stack restaurant app where you can order your favorite food from the menu.
 *	You have options for breakfast, lunch, and dinner. 
