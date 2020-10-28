@@ -4,8 +4,9 @@
 [Github Backend Code](https://github.com/Maruf51/Hot-Onion-Foods-Server "Hot Onion Foods Backend Code Github Link.")
 
 *	A full-stack restaurant app where you can order your favorite food from the menu.
-*	You have options for breakfast, lunch, and dinner. Admin can enter new foods.
+*	You have options for breakfast, lunch, and dinner. 
 *	Pay online using your credit card and enjoy the most delicious dummy food.
+* Admin can enter new foods.
 
 __Technology:__ React js, React Router, Firebase Auth, Heroku, Bootstrap          
 __Backend Technology:__ Node js, MongoDB
